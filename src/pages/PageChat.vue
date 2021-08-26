@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex column">
-    <q-banner class="text-center bg-grey-2"> User is offline </q-banner>
+    <q-banner class="text-center bg-grey-2"> User is offline測試push </q-banner>
     <div class="q-pa-md column col justify-end">
       <q-chat-message
         v-for="message in messages"
